@@ -1,0 +1,17 @@
+
+{
+  "name": "PROJETO_TESTE_TASK",
+  "version": "1.0.0",
+  "description": "Projeto Teste Task - Buscar Produtos na Amazon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jessé Batista",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2"
+  }
+}
